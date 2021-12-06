@@ -1,0 +1,1 @@
+Importar archivo SQL de la carpeta en PhpMyadmin para correcto funcionamiento
